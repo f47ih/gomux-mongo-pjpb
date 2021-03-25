@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 import "go.mongodb.org/mongo-driver/mongo"
-import "/gomux-mongo-pjpb/config"
+import "github.com/f47ih/gomux-mongo-pjpb/config"
 
 func main() {
 	fmt.Println("Hello")
